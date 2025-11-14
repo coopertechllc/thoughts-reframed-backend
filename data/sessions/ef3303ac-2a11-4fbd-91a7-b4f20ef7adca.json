@@ -1,0 +1,21 @@
+{
+  "id": "ef3303ac-2a11-4fbd-91a7-b4f20ef7adca",
+  "userId": "da17200f-be7e-4345-8eba-c733f5182721",
+  "createdAt": "2025-11-14T14:27:32.192Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763130452207.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/ef3303ac-2a11-4fbd-91a7-b4f20ef7adca/audio_1763130452207.m4a",
+      "size": 88384,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T14:27:32.210Z"
+    }
+  ],
+  "transcript": "I'm a bad parent. I don't know how to parent my kids.\n",
+  "reframedText": "\"I'm still learning and growing as a parent. There's always room for improvement and I'm open to finding new ways to better understand and guide my kids.\"",
+  "generatedAudioUrl": "/uploads/reframed_ef3303ac-2a11-4fbd-91a7-b4f20ef7adca_1763130460580.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T14:27:40.581Z"
+}

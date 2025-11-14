@@ -1,0 +1,20 @@
+{
+  "id": "f1a9ed6e-20e4-4afb-bc80-bc2b514b9a77",
+  "createdAt": "2025-11-13T02:58:51.604Z",
+  "status": "transcribing",
+  "audioFiles": [
+    {
+      "filename": "audio_1763002731620.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/f1a9ed6e-20e4-4afb-bc80-bc2b514b9a77/audio_1763002731620.m4a",
+      "size": 89513,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-13T02:58:51.624Z"
+    }
+  ],
+  "transcript": null,
+  "reframedText": null,
+  "generatedAudioUrl": null,
+  "error": null,
+  "updatedAt": "2025-11-13T02:58:51.629Z"
+}

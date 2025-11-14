@@ -1,0 +1,20 @@
+{
+  "id": "eb2ca27b-7a5f-41e2-bc0d-00f8510144ae",
+  "createdAt": "2025-11-13T15:49:12.691Z",
+  "status": "error",
+  "audioFiles": [
+    {
+      "filename": "audio_1763048952708.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/eb2ca27b-7a5f-41e2-bc0d-00f8510144ae/audio_1763048952708.m4a",
+      "size": 67861,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-13T15:49:12.712Z"
+    }
+  ],
+  "transcript": "You\n",
+  "reframedText": "It appears that your message is incomplete. Could you please provide the full context or the complete thought so I can assist you better?",
+  "generatedAudioUrl": null,
+  "error": "TTS generation failed: Request failed with status code 401",
+  "updatedAt": "2025-11-13T15:49:19.680Z"
+}

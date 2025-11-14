@@ -1,0 +1,20 @@
+{
+  "id": "d456d9df-4954-4d72-819f-bc6938959afc",
+  "createdAt": "2025-11-13T04:01:40.654Z",
+  "status": "error",
+  "audioFiles": [
+    {
+      "filename": "audio_1763006500671.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/d456d9df-4954-4d72-819f-bc6938959afc/audio_1763006500671.m4a",
+      "size": 81225,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-13T04:01:40.679Z"
+    }
+  ],
+  "transcript": null,
+  "reframedText": null,
+  "generatedAudioUrl": null,
+  "error": "Transcription failed: Request failed with status code 429",
+  "updatedAt": "2025-11-13T04:01:41.669Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f7c43218-9c4b-4745-8320-ad67a1eafb13",
+  "userId": "5692395e-5515-4442-bc2c-929d5d516bbc",
+  "createdAt": "2025-11-14T03:24:32.214Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763090672222.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/f7c43218-9c4b-4745-8320-ad67a1eafb13/audio_1763090672222.m4a",
+      "size": 132764,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T03:24:32.231Z"
+    }
+  ],
+  "transcript": "I keep starting new things and not seeing them through, and so I'm not getting anywhere with my career.\n",
+  "reframedText": "\"I'm exploring different avenues and learning what truly interests me, which will eventually lead me to a fulfilling career path.\"",
+  "generatedAudioUrl": "/uploads/reframed_f7c43218-9c4b-4745-8320-ad67a1eafb13_1763090677112.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T03:24:37.114Z"
+}

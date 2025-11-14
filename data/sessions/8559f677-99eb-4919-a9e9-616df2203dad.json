@@ -1,0 +1,20 @@
+{
+  "id": "8559f677-99eb-4919-a9e9-616df2203dad",
+  "createdAt": "2025-11-13T02:49:50.750Z",
+  "status": "error",
+  "audioFiles": [
+    {
+      "filename": "audio_1763002190763.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/8559f677-99eb-4919-a9e9-616df2203dad/audio_1763002190763.m4a",
+      "size": 81000,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-13T02:49:50.768Z"
+    }
+  ],
+  "transcript": null,
+  "reframedText": null,
+  "generatedAudioUrl": null,
+  "error": "Transcription failed: Connection error.",
+  "updatedAt": "2025-11-13T02:52:22.519Z"
+}

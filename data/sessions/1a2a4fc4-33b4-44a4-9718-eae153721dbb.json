@@ -1,0 +1,20 @@
+{
+  "id": "1a2a4fc4-33b4-44a4-9718-eae153721dbb",
+  "createdAt": "2025-11-13T04:03:30.137Z",
+  "status": "error",
+  "audioFiles": [
+    {
+      "filename": "audio_1763006610152.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/1a2a4fc4-33b4-44a4-9718-eae153721dbb/audio_1763006610152.m4a",
+      "size": 89435,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-13T04:03:30.157Z"
+    }
+  ],
+  "transcript": null,
+  "reframedText": null,
+  "generatedAudioUrl": null,
+  "error": "Transcription failed: Rate limit exceeded. Please try again in a few minutes.",
+  "updatedAt": "2025-11-13T04:04:02.782Z"
+}

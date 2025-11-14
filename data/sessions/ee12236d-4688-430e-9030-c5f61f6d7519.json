@@ -1,0 +1,21 @@
+{
+  "id": "ee12236d-4688-430e-9030-c5f61f6d7519",
+  "userId": "da17200f-be7e-4345-8eba-c733f5182721",
+  "createdAt": "2025-11-14T16:23:55.790Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763137435804.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/ee12236d-4688-430e-9030-c5f61f6d7519/audio_1763137435804.m4a",
+      "size": 126312,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T16:23:55.808Z"
+    }
+  ],
+  "transcript": "I wish I could be a better sibling and be positive to my siblings.\n",
+  "reframedText": "\"I'm committed to improving my relationship with my siblings and spreading positivity in our interactions.\"",
+  "generatedAudioUrl": "/uploads/reframed_ee12236d-4688-430e-9030-c5f61f6d7519_1763137440196.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T16:24:00.198Z"
+}

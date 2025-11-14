@@ -1,0 +1,21 @@
+{
+  "id": "10a5c231-09d6-4c19-b60f-d9b90c60431e",
+  "userId": "da17200f-be7e-4345-8eba-c733f5182721",
+  "createdAt": "2025-11-14T00:51:02.091Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763081462098.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/10a5c231-09d6-4c19-b60f-d9b90c60431e/audio_1763081462098.m4a",
+      "size": 96393,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T00:51:02.102Z"
+    }
+  ],
+  "transcript": "I constantly fail at work. I don't know what I'm going to do.\n",
+  "reframedText": "\"I am experiencing some challenges at work right now, which means there are opportunities for me to learn and improve. I'm determined to find solutions and grow professionally.\"",
+  "generatedAudioUrl": "/uploads/reframed_10a5c231-09d6-4c19-b60f-d9b90c60431e_1763081467830.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T00:51:07.832Z"
+}

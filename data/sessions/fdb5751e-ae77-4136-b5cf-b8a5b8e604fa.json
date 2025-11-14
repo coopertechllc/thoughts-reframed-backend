@@ -1,0 +1,20 @@
+{
+  "id": "fdb5751e-ae77-4136-b5cf-b8a5b8e604fa",
+  "createdAt": "2025-11-13T02:19:12.804Z",
+  "status": "error",
+  "audioFiles": [
+    {
+      "filename": "audio_1763000352818.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/fdb5751e-ae77-4136-b5cf-b8a5b8e604fa/audio_1763000352818.m4a",
+      "size": 81474,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-13T02:19:12.823Z"
+    }
+  ],
+  "transcript": null,
+  "reframedText": null,
+  "generatedAudioUrl": null,
+  "error": "OpenAI API key not configured",
+  "updatedAt": "2025-11-13T02:19:12.829Z"
+}

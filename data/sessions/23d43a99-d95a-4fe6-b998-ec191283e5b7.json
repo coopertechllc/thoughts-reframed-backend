@@ -1,0 +1,21 @@
+{
+  "id": "23d43a99-d95a-4fe6-b998-ec191283e5b7",
+  "userId": "da17200f-be7e-4345-8eba-c733f5182721",
+  "createdAt": "2025-11-14T16:20:32.877Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763137232890.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/23d43a99-d95a-4fe6-b998-ec191283e5b7/audio_1763137232890.m4a",
+      "size": 116831,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T16:20:32.895Z"
+    }
+  ],
+  "transcript": "I don't want to get out of bed. I have a hard time even wanting to do anything. I don't know what to do with my life.\n",
+  "reframedText": "\"It's okay to have slow mornings and feel uncertain about the future. Right now, I need to focus on small steps to get moving and find what brings me joy and fulfillment one day at a time.\"",
+  "generatedAudioUrl": "/uploads/reframed_23d43a99-d95a-4fe6-b998-ec191283e5b7_1763137239998.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T16:20:40.000Z"
+}

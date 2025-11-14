@@ -1,0 +1,21 @@
+{
+  "id": "ccca5917-a505-4761-bab2-b3718b753e51",
+  "userId": "5692395e-5515-4442-bc2c-929d5d516bbc",
+  "createdAt": "2025-11-14T03:22:57.440Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763090577449.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/ccca5917-a505-4761-bab2-b3718b753e51/audio_1763090577449.m4a",
+      "size": 158876,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T03:22:57.454Z"
+    }
+  ],
+  "transcript": "I'm falling short in my relationships and I'm not able to connect with my spouse in the way that I want. I feel like I'm a bad communicator and it's affecting my marriage.\n",
+  "reframedText": "\"I'm noticing areas for growth in my relationships, especially in my communication with my spouse. I'm committed to improving these skills to better connect and enhance my marriage.\"",
+  "generatedAudioUrl": "/uploads/reframed_ccca5917-a505-4761-bab2-b3718b753e51_1763090586953.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T03:23:06.955Z"
+}

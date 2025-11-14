@@ -1,0 +1,21 @@
+{
+  "id": "2a595efc-a719-4bf1-b869-361cd4b13f7b",
+  "userId": "da17200f-be7e-4345-8eba-c733f5182721",
+  "createdAt": "2025-11-14T16:05:47.986Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763136348005.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/2a595efc-a719-4bf1-b869-361cd4b13f7b/audio_1763136348005.m4a",
+      "size": 99798,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T16:05:48.017Z"
+    }
+  ],
+  "transcript": "I wish I could be a better father. I'm always so negative.\n",
+  "reframedText": "\"I aspire to grow as a father. I recognize that I have areas to work on, such as my negativity.\"",
+  "generatedAudioUrl": "/uploads/reframed_2a595efc-a719-4bf1-b869-361cd4b13f7b_1763136355446.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T16:05:55.448Z"
+}

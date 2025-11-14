@@ -1,0 +1,21 @@
+{
+  "id": "8c5169bd-3255-44c3-8d53-c9ddfc086f5a",
+  "userId": "da17200f-be7e-4345-8eba-c733f5182721",
+  "createdAt": "2025-11-14T16:08:06.404Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763136486420.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/8c5169bd-3255-44c3-8d53-c9ddfc086f5a/audio_1763136486420.m4a",
+      "size": 105069,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T16:08:06.424Z"
+    }
+  ],
+  "transcript": "I'm not a good brother. I always put them, my siblings, down.\n",
+  "reframedText": "\"I am committed to becoming a better brother. I recognize and I am ready to change my habit of putting my siblings down.\"",
+  "generatedAudioUrl": "/uploads/reframed_8c5169bd-3255-44c3-8d53-c9ddfc086f5a_1763136491744.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T16:08:11.746Z"
+}

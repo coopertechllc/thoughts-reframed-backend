@@ -1,0 +1,21 @@
+{
+  "id": "f9b7b7ec-cd86-4b98-9d4b-595401951aa2",
+  "userId": "5692395e-5515-4442-bc2c-929d5d516bbc",
+  "createdAt": "2025-11-14T03:20:17.162Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763090417175.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/f9b7b7ec-cd86-4b98-9d4b-595401951aa2/audio_1763090417175.m4a",
+      "size": 111007,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T03:20:17.179Z"
+    }
+  ],
+  "transcript": "I'm really bad at cooking and I'm having a hard time keeping up with my life.\n",
+  "reframedText": "\"I'm still learning to master my cooking skills and I'm navigating through a challenging time in my life.\"",
+  "generatedAudioUrl": "/uploads/reframed_f9b7b7ec-cd86-4b98-9d4b-595401951aa2_1763090424295.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T03:20:24.297Z"
+}

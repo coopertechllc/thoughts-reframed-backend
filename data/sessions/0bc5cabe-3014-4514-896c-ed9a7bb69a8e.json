@@ -1,0 +1,20 @@
+{
+  "id": "0bc5cabe-3014-4514-896c-ed9a7bb69a8e",
+  "createdAt": "2025-11-13T16:19:12.606Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763050752625.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/0bc5cabe-3014-4514-896c-ed9a7bb69a8e/audio_1763050752625.m4a",
+      "size": 84278,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-13T16:19:12.634Z"
+    }
+  ],
+  "transcript": "I am always complaining. I am a complainer.\n",
+  "reframedText": "\"I am mindful of the things that need improvement and I voice my concerns. I am an advocate for change.\"",
+  "generatedAudioUrl": "/uploads/reframed_0bc5cabe-3014-4514-896c-ed9a7bb69a8e_1763050759964.mp3",
+  "error": null,
+  "updatedAt": "2025-11-13T16:19:19.965Z"
+}

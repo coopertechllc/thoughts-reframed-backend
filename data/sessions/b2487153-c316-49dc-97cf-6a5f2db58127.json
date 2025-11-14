@@ -1,0 +1,21 @@
+{
+  "id": "b2487153-c316-49dc-97cf-6a5f2db58127",
+  "userId": "da17200f-be7e-4345-8eba-c733f5182721",
+  "createdAt": "2025-11-14T03:25:34.812Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763090734824.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/b2487153-c316-49dc-97cf-6a5f2db58127/audio_1763090734824.m4a",
+      "size": 94822,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T03:25:34.827Z"
+    }
+  ],
+  "transcript": "I don't know what to do with my life. I feel like I have nowhere to go.\n",
+  "reframedText": "\"I'm in the process of figuring out my life's direction. This is an opportunity for me to explore and find my own path.\"",
+  "generatedAudioUrl": "/uploads/reframed_b2487153-c316-49dc-97cf-6a5f2db58127_1763090739268.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T03:25:39.270Z"
+}

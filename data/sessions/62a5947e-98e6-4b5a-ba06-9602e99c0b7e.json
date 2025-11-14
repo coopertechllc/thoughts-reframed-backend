@@ -1,0 +1,21 @@
+{
+  "id": "62a5947e-98e6-4b5a-ba06-9602e99c0b7e",
+  "userId": "da17200f-be7e-4345-8eba-c733f5182721",
+  "createdAt": "2025-11-14T00:50:15.175Z",
+  "status": "completed",
+  "audioFiles": [
+    {
+      "filename": "audio_1763081415183.m4a",
+      "originalName": "recording.m4a",
+      "path": "/app/uploads/62a5947e-98e6-4b5a-ba06-9602e99c0b7e/audio_1763081415183.m4a",
+      "size": 102700,
+      "mimetype": "audio/m4a",
+      "uploadedAt": "2025-11-14T00:50:15.187Z"
+    }
+  ],
+  "transcript": "I am a bad father. I do not know how to treat my kids.\n",
+  "reframedText": "\"I'm still learning and growing as a father. It's an ongoing journey to understand the best ways to connect with and support my kids.\"",
+  "generatedAudioUrl": "/uploads/reframed_62a5947e-98e6-4b5a-ba06-9602e99c0b7e_1763081423679.mp3",
+  "error": null,
+  "updatedAt": "2025-11-14T00:50:23.681Z"
+}
